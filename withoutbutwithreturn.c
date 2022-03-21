@@ -3,7 +3,7 @@ int getInteger();
 int main()
 {
     int n, i, flag = 0;
-    printf("siddhant\n");
+    printf("aayushi\n");
     n = getInteger();    
     for(i=2; i<=n/2; ++i)
     {
