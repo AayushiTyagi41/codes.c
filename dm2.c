@@ -4,7 +4,7 @@
 int main () {
    char *ptr;
    ptr = (char *) malloc(10);
-   printf("siddhant\n");
+   printf("aayushi\n");
    strcpy(ptr, "Programming");
    printf(" %s,  Address = %u\n", ptr, ptr);
 
