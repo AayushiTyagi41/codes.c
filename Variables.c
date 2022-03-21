@@ -6,7 +6,7 @@ int main()
     char s = 'c';
     char *str = "line";
     float f = 23.4;
-    printf("siddhant\n");
+    printf("aayushi\n");
     printf("%d\n",a);
     printf("%f\n",f);
     printf("%c\n",s);
