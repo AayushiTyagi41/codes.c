@@ -3,7 +3,7 @@
 int main()
 {
     int number, i, k, count = 1;
- 
+    printf("aayushi\n");
     printf("Enter number of rows\n");
     scanf("%d", &number);
     count = number - 1;
