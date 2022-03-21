@@ -2,7 +2,7 @@
 int main()
 {
    int arr1[25], i,n;
-   printf("siddhant\n");
+   printf("aayushi\n");
    printf("\n\n Pointer : Store and print elements from an array :\n");    
    printf(" Input the number of elements to store in the array :");
    scanf("%d",&n);
