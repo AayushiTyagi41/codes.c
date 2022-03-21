@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("sidhant\n");
+    printf("aayushi\n");
     int sales;
     float salary1, salary2;
     printf("Enter Total sales\n");
