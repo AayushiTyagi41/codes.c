@@ -2,7 +2,7 @@
 int main() 
 {
   int r, c, a[100][100], b[100][100], sum[100][100], i, j;
-  printf("siddhant\n");
+  printf("aayushi\n");
   printf("Enter the number of rows: ");
   scanf("%d", &r);
   printf("Enter the number of columns: ");
