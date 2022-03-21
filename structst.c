@@ -10,7 +10,7 @@ void main()
     struct student s[5];
     int i, n, j;
     float avg;
-
+    printf("aayushi\n");
     printf("Enter the number of students:");
     scanf("%d", &n);
     printf("\t*Students Records*\n");
