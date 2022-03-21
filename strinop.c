@@ -5,7 +5,7 @@ int main()
 {
     int a, b, choice;
     char st1[20] = "Hello ", st2[20] = "World";
-    printf("siddhant\n");
+    printf("aayushi\n");
     printf("Pick one out of the following\n");
     printf("1) Length of string\n");
     printf("2) Concatinate 2 strings\n");
