@@ -16,7 +16,7 @@ int main()
     char string[100]={0};
 
     int ret=0,hour=0,min=0,sec=0;
-    printf("siddhant\n");
+    printf("aayushi\n");
     
     printf("\nEnter the time in \"hh:mm:ss\" format : ");
     fgets(string,100,stdin);
