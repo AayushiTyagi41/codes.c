@@ -3,7 +3,7 @@ void msg();
 
 void msg()                                               
 {
-printf("siddhant\n");
+printf("aayushi\n");
 printf("Good Morning!\n");
 printf("Good Afternoon!");
 }
