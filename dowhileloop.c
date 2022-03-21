@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("siddhant\n");
+    printf("aayushi\n");
     int a=0, num;
     printf("enter the value of num \n");
     scanf ("%d", &num);
