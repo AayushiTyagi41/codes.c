@@ -9,7 +9,7 @@ int main()
 {
     extern int s;
     int a,b;
-    printf("siddhant\n");
+    printf("aayushi\n");
     printf("\nEnter the value of a:");
     scanf("%d",&a);
     printf("\nEnter the value of b:");
