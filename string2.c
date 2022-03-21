@@ -5,7 +5,7 @@ int main()
      char *st1 = "'Ok' Google!";
      char st2[20];
      strcpy(st2,st1);
-     printf("siddhant\n");
+     printf("aayushi\n");
      printf("Value of st2 = %s", st2);
 return 0;
 }
