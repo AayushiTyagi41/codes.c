@@ -5,7 +5,7 @@ void main()
 {
     int x[3][3]={1,2,3,4,5,6,7,8,9};
     int c,r;
-    printf("siddhant\n");
+    printf("aayushi\n");
     printf("print address");
     printf("\n  \t  col-0 \tc0l-1 \t col-2");
     printf("\n row 0\t");
