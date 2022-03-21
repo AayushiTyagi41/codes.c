@@ -6,6 +6,7 @@
 int main()
 {
 	 float p, t, r, si, ci;
+	 printf("aayushi\n");
 	 printf("Enter principal amount (p): ");
 	 scanf("%f", &p);
 	 printf("Enter time in year (t): ");
