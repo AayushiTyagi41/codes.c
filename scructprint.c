@@ -10,6 +10,7 @@ struct student s1,s2;
 
 int main()
 {
+printf("aayushi\n");    
 printf("enter the age:\n");
 scanf("%d",&s1.age);
 printf("age=%d",s1.age);
