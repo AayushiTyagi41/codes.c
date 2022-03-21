@@ -5,7 +5,7 @@ void main()
 {
    char str1[25];
    int l;
-   printf("siddhant\n");
+   printf("aayushi\n");
    printf("Pointer : Calculate the length of the string :\n"); 
    printf(" Input a string : ");
    fgets(str1, sizeof str1, stdin);
