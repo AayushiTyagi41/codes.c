@@ -4,7 +4,7 @@ int main()
 {  
     int x = 10;  
     int y = 20;
-    printf("siddhant\n");
+    printf("aayushi\n");
     printf("Before swapping the values in main x = %d, y = %d\n",x,y);
     swap(&x,&y);  
     printf("After swapping values in main x = %d, y = %d\n",x,y);
