@@ -5,7 +5,7 @@ int main()
 {
     int age, count = 0, x=1;
     float wt;
-    printf("siddhant\n");
+    printf("aayushi\n");
     printf("Enter the Data of 5 Students \n");
     printf("Age Weight\n");
     do
