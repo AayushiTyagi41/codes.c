@@ -3,7 +3,7 @@
 int main()
 {
     int number;
-    printf("siddhant\n");
+    printf("aayushi\n");
     printf("To check whether the number is greater than 100 and less than 1000\n");
     printf("\nEnter the Number");
     scanf("%d",&number);
