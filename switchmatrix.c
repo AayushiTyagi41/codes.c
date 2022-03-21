@@ -53,7 +53,7 @@ int main()
   int b[][3] = { {1,2,3}, {4,5,6}, {7,8,9} };
   int c[3][3];
 
-  printf("siddhant\n");
+  printf("aayushi\n");
   printf("First Matrix:\n");
   display(a);
   printf("Second Matrix:\n");
