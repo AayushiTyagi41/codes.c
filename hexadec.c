@@ -6,7 +6,7 @@ int main()
     char hex[17], bin[65] = "";
     int i = 0;
 
-    printf("siddhant\n");
+    printf("aayushi\n");
 
     /* Input hexadecimal number from user */
     printf("Enter any hexadecimal number: ");
