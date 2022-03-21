@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
   int a[10][10], transpose[10][10], r, c;
-  printf("siddhant\n");
+  printf("aayushi\n");
   printf("Enter rows and columns: ");
   scanf("%d %d", &r, &c);
   printf("\nEnter matrix elements:\n");
