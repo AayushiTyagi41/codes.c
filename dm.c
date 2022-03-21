@@ -4,7 +4,7 @@ int main()
 {
     int i,n;
     float *element;
-    printf("siddhant\n");
+    printf("aayushi\n");
 	printf("\n Pointer : Find the largest element using Dynamic Memory Allocation :\n");  	
     printf(" Input total number of elements(1 to 100): ");
     scanf("%d",&n);
