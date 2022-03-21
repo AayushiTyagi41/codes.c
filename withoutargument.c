@@ -2,7 +2,7 @@
 void sum();
 void main()
 {
-    printf("siddhant\n");
+    printf("aayushi\n");
     printf("\nGoing to caculate the sum of two numbers:");
     sum();
 }
