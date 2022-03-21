@@ -3,7 +3,7 @@
 int main()
 {
     float celsius,fahrenheit;
-    printf("siddhant\n");
+    printf("aayushi\n");
     printf("enter the temprature in celsius");
     scanf("%f",&celsius);
     fahrenheit =(celsius *9/5)+32;
