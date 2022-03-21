@@ -3,7 +3,7 @@
 int main()
 {
     int Number;
-    printf("siddhant\n");
+    printf("aayushi\n");
     printf("Enter the number:");
     scanf("%d",&Number);
     if(Number%2==0)
