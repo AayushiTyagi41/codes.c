@@ -5,7 +5,7 @@ int main()
     int num[5]={1,5,8,9,4};
     num[5]=6;
     num[6]=7;
-    printf("siddhant\n");
+    printf("aayushi\n");
     printf("\n num[0]=%d Adress:%u",num[0],&num[1]);
     printf("\n num[0]=%d Adress:%u",num[1],&num[5]);
     printf("\n num[0]=%d Adress:%u",num[2],&num[8]);
