@@ -3,7 +3,7 @@ int main()
 {
    int first, second, *p, *q, sum;
 
-   printf("siddhant\n");
+   printf("aayushi\n");
    printf("Enter two integers to add\n");
    scanf("%d%d", &first, &second);
 
