@@ -6,7 +6,7 @@ void main()
 {
     char s[15],f;
     int c=0,i;
-    printf("siddhant\n");
+    printf("aayushi\n");
     puts("Enter the string");
     gets(s);
     puts("Enter the character to find:");
