@@ -4,7 +4,7 @@ int main() {
     float floatType;
     double doubleType;
     char charType;
-    printf("siddhant\n");
+    printf("aayushi\n");
     
     printf("Size of int: %zu bytes\n", sizeof(intType));
     printf("Size of float: %zu bytes\n", sizeof(floatType));
