@@ -5,7 +5,7 @@ int main ()
    char name [20];
    int age, length;
    FILE *fp;
-   printf("siddhant\n");
+   printf("aayushi\n");
    fp = fopen ("test.txt","w");
    fprintf (fp, "%s %d", "Fresh2refresh", 5);
    length = ftell(fp); // Cursor position is now at the end of file
