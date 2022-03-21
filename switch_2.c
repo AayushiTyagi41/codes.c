@@ -4,7 +4,7 @@ int main()
 {
     int num, count, rem, sum, choice, nu, m;
     long int n, a, b, c, d, e, f, i;
-    printf("siddhant\n");
+    printf("aayushi\n");
     printf("press 1 for armstrong  number");
     printf("\npress2 for prime numbers");
     printf("\npress 3 for reverse of an integer\n");
