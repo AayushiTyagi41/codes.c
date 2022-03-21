@@ -3,7 +3,7 @@ void main()
 {
     int arr1[100];
     int i, mx, mn, n;
-	   printf("siddhant\n");
+	   printf("aayushit\n");
        printf("Enter the numbers to store in array :");
        scanf("%d",&n);
    
