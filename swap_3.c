@@ -3,7 +3,7 @@ int main()
 {
   int x, y, t;
 
-  printf("siddhant\n");
+  printf("aayushi\n");
   printf("Enter two integers\n");
   scanf("%d%d", &x, &y);
 
