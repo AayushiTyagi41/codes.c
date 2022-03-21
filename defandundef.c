@@ -3,7 +3,7 @@
 void main()
 {
     int r;
-    printf("siddhant\n");
+    printf("aayushi\n");
 #undef wait getche();
     wait();
     for (r = 1; r <= 5; r++)
