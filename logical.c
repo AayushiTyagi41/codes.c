@@ -2,7 +2,7 @@
 int main ()  
 { 
 int x, y, z;
-printf("siddhant\n");  
+printf("aayushi\n");  
 printf (" Enter the first number: ");  
 scanf ("%d", &x);  
 printf (" Enter the second number: ");  
