@@ -16,7 +16,7 @@ int main()
     int diff;
     int line, col;
 
-    printf("siddhant\n");
+    printf("aayushi\n");
     printf("Enter path of first file: ");
     scanf("%s", path1);
     printf("Enter path of second file: ");
